@@ -1,5 +1,6 @@
 # Azure Exercises and Labs
 
+
 ## Exercise - Explore the Learn sandbox
 https://docs.microsoft.com/en-us/learn/modules/describe-core-architectural-components-of-azure/4-exercise-explore-learn-sandbox
 
@@ -39,7 +40,7 @@ https://docs.microsoft.com/en-us/learn/modules/set-up-first-lab-with-azure-devte
 ## Exercise - Connect Azure Storage Explorer to a storage account
 https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/3-exercise-connect-storage-account?source=learn
 
-## Host a new database by using Azure Cosmos DB
+## Exercise - Host a new database by using Azure Cosmos DB
 https://docs.microsoft.com/en-us/learn/modules/aks-manage-application-state/3-exercise-create-resources
 
 ## Exercise - Use shared access signatures to delegate access to Azure Storage
