@@ -1,4 +1,35 @@
 # Azure Exercises and Labs
+## Exercises:
+* Explore the Learn sandbox
+* Create an Azure resource
+* Manage a password in Azure Key Vault
+* Create a SQL database
+* Use SQL to query Azure SQL Database
+* Create a storage account using the Azure portal
+* Create a static HTML web app by using Azure Cloud Shell
+* Design and implement IP addressing for Azure virtual networks
+* Create alias records for Azure DNS
+* Create a Linux virtual machine with the Azure portal
+* Set up self-service password reset
+* Create and configure a development lab
+* Connect Azure Storage Explorer to a storage account
+* Host a new database by using Azure Cosmos DB
+* Use shared access signatures to delegate access to Azure Storage
+* Create an NVA and virtual machines
+* Create a VM to host your web application
+* Create a new API in API Management from a function app
+* Create a web app in the Azure portal (Lab!!!)
+* Give guest users access in Azure Active Directory B2B
+* Secure your Azure SQL Database - Set up sandbox environment
+* Secure your Azure SQL Database - Exercise - Restrict network access
+* Secure your Azure SQL Database - Exercise - Control who can access your database
+* Secure your Azure SQL Database - Exercise - Secure your data in transit, at rest, and on display
+* Secure your Azure SQL Database - Exercise - Monitor your database
+* View live application logging with the log streaming service using Azure CLI
+* Create a workflow using Durable Functions
+* Set up a DSC and configure a desired state
+* Connect an app to the cache
+* Configure a Playbook for a security event
 
 
 ## Exercise - Explore the Learn sandbox
@@ -13,13 +44,13 @@ https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-
 ## Exercise - Create a SQL database
 https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/exercise-create-sql-database
 
-## Exercise: Use SQL to query Azure SQL Database
+## Exercise - Use SQL to query Azure SQL Database
 https://docs.microsoft.com/en-us/learn/modules/query-relational-data/6-exercise-perform-query
 
 ## Exercise - Create a storage account using the Azure portal
 https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/5-exercise-create-a-storage-account
 
-## Exercise: Create a static HTML web app by using Azure Cloud Shell
+## Exercise - Create a static HTML web app by using Azure Cloud Shell
 https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-app-service/7-create-html-web-app
 
 ## Exercise - Design and implement IP addressing for Azure virtual networks
