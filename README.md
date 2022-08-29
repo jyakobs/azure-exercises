@@ -1,4 +1,7 @@
 # Azure Exercises and Labs
+A collection of Azure labs and exercises with Sandbox environments.
+
+
 ## Exercises:
 * Explore the Learn sandbox
 * Create an Azure resource
