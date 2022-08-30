@@ -21,7 +21,8 @@ A collection of Azure labs and exercises with Sandbox environments.
 * Create an NVA and virtual machines
 * Create a VM to host your web application
 * Create a new API in API Management from a function app
-* Create a web app in the Azure portal (Lab!!!)
+* Create a web app in the Azure portal
+* Model data in Power BI Desktop, Part 1 (Lab!!!)
 * Give guest users access in Azure Active Directory B2B
 * Secure your Azure SQL Database - Set up sandbox environment
 * Secure your Azure SQL Database - Exercise - Restrict network access
@@ -89,8 +90,11 @@ https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-li
 ## Exercise - Create a new API in API Management from a function app
 https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/3-exercise-import-function-app-api-management
 
-## Exercise - Create a web app in the Azure portal (Lab!!!)
+## Exercise - Create a web app in the Azure portal
 https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/3-exercise-create-a-web-app-in-the-azure-portal?pivots=python
+
+## Lab - Model data in Power BI Desktop, Part 1 (Lab!!!)
+https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/8-lab
 
 ## Exercise - Give guest users access in Azure Active Directory B2B
 https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/7-exercise-guest-user-access-azure-ad-b2b
